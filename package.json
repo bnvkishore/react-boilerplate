@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "create-xen-react-app": "index.js"
+    "create-kishore-react-bp": "index.js"
   },
   "author": "",
   "license": "ISC",
